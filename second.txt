@@ -1,2 +1,4 @@
 this is my second file
 adding second line
+we are on the third line
+adding new content
